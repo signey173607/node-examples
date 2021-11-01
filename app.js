@@ -1,4 +1,4 @@
-const rect = require('./rectangle.js');
+const rect = require('./rectangle');
 
 function solveRectangle(l, w) {
     console.log(`Solving for rectangle with values of ${l}, ${w}.`);
